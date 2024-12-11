@@ -1,0 +1,17 @@
+{
+    "title": "Lustige Vorschläge für ChatGPT",
+    "description": "Nutze diese Prompts für mehr Inspiration!",
+    "loadRandom": "Neuen Prompt laden",
+    "placeholderSuggestion": "Deinen Vorschlag senden...",
+    "sendSuggestion": "Senden",
+    "suggestionReceived": "Vorschlag erhalten, danke!",
+    "copied": "Kopiert!",
+    "selectLanguage": "Sprache auswählen",
+    "close": "Schließen",
+    "lang": {
+      "it": "Italienisch",
+      "en": "Englisch",
+      "de": "Deutsch",
+      "fr": "Französisch"
+    }
+  }

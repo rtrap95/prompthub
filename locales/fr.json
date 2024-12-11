@@ -1,0 +1,17 @@
+{
+    "title": "Suggestions amusantes pour ChatGPT",
+    "description": "Utilisez ces prompts pour vous inspirer !",
+    "loadRandom": "Charger un nouveau prompt",
+    "placeholderSuggestion": "Envoyez votre suggestion...",
+    "sendSuggestion": "Envoyer",
+    "suggestionReceived": "Suggestion reçue, merci !",
+    "copied": "Copié !",
+    "selectLanguage": "Sélectionnez la langue",
+    "close": "Fermer",
+    "lang": {
+        "it": "Italien",
+        "en": "Anglais",
+        "de": "Allemand",
+        "fr": "Français"
+    }
+}
